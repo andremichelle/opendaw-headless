@@ -11,3 +11,4 @@ This is a template to run the openDAW SDK with the least possible number of depe
 * `npm install`
 * `npm run dev`
 
+Please take a look at this [repository](https://github.com/naomiaro/opendaw-test) for more detailed information.
